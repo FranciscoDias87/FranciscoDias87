@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi! I'm Francisco Dias👋
 
-<!--
-**FranciscoDias87/FranciscoDias87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🏫 I am currently a teacher of a Technical Course in Systems Development
+- 🔭 I currently develop personal projects and study.
+- 👨‍💻 I study technology since 2017.
+- 🎓 I currently have a Bachelor's degree in Information Systems from the Federal University of Piauí
+- 😄 Pronouns: He
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/FranciscoDias87/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoDias87&layout=donut&theme=radical"
+    />
+  </a>
+  <a href="https://github.com/FranciscoDias87/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=FranciscoDias87&show_icons=true&theme=radical"
+    />
+  </a>
+</p>
