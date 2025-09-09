@@ -1,4 +1,4 @@
-## Hi! I'm Francisco Dias👋
+## Hi! I'm Francisco Dias
 
 - 👨‍🏫 I am currently a teacher of a Technical Course in Systems Development
 - 🔭 I currently develop personal projects and study.
